@@ -4,3 +4,6 @@
 >  * Attribution to the author is mandatory in all internal or external tests.
 >  * Unauthorized integration into the main AvionDB branch will be considered a copyright violation.
 > Developed and tested on ASUS X550CC / Windows 7 environment.
+
+> RESTRICTION OF DERIVATIVE WORKS (ADDENDUM v2.1):
+> Any modification of the "Predictive Latency Mitigation" (0.816-threshold) logic, including but not limited to syntax optimization (e.g., using memoryview), is strictly prohibited without explicit authorization. Original authorship must be preserved in all derived satellite communication implementations.
