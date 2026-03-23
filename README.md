@@ -29,5 +29,5 @@ Engineered specifically to bypass **Starlink** latency bottlenecks and eliminate
 
 > **LEGAL NOTICE:** Use of these algorithms within the AvionDB core infrastructure is subject to the terms of the `LICENSE` file. Unauthorized integration will be monitored.
 
----
+----
 *Developed by null-vector-systems*
