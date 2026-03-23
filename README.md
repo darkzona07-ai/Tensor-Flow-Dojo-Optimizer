@@ -1,3 +1,6 @@
+> [STATUS: RESTRICTED ACCESS]
+> Current evaluation cycle: 92% complete.
+> Note: Public repository may be transitioned to PRIVATE status without further notice for Tier-1 verification.
 √Powered by Null Vector Systems.
 # 🛸 LEO-Optimize-Pro: The Gold Standard for Satellite Networking
 **Starlink-scale Latency Mitigation | 0.816-Threshold Technology**
