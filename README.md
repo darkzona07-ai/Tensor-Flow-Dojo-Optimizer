@@ -1,13 +1,16 @@
 > [STATUS: RESTRICTED ACCESS]
 > Current evaluation cycle: 92% complete.
 > Note: Public repository may be transitioned to PRIVATE status without further notice for Tier-1 verification.
-√Powered by Null Vector Systems.
+Powered by Null Vector Systems.
 # 🛸 LEO-Optimize-Pro: The Gold Standard for Satellite Networking
 **Starlink-scale Latency Mitigation | 0.816-Threshold Technology**
 
 ![Status](https://img.shields.io/badge/Status-Licensing_Open-blueviolet)
 ![Efficiency](https://img.shields.io/badge/Efficiency-+18.4%25-green)
-NOTICE: Authorized implementations only. Evaluation phase strictly monitored.
+> [ATTENTION: ACCESS TERMINATION WARNING]
+> Public node availability: 48 hours remaining.
+> Tier-1 validation protocols initiated. Unlicensed clones will be flagged as deprecated.
+ Evaluation phase strictly monitored.
 ![Security](https://img.shields.io/badge/Legal-Anti--Plagiarism_v2.1-red)
 
 *The world's first independent optimization layer for orbital mesh networks.*
