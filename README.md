@@ -4,6 +4,7 @@ Powered by Null Vector Systems.
 
 ![Status](https://img.shields.io/badge/Status-Licensing_Open-blueviolet)
 ![Efficiency](https://img.shields.io/badge/Efficiency-+18.4%25-green)
+NOTICE: Authorized implementations only. Evaluation phase strictly monitored.
 ![Security](https://img.shields.io/badge/Legal-Anti--Plagiarism_v2.1-red)
 
 *The world's first independent optimization layer for orbital mesh networks.*
