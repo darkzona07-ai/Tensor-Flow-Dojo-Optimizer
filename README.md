@@ -1,4 +1,6 @@
 > [STATUS: RESTRICTED ACCESS]
+> Contact established with [REDACTED] Tier-1 entities.
+> Selection process for the exclusive orbital-mesh license is underway.
 > Current evaluation cycle: 92% complete.
 > Note: Public repository may be transitioned to PRIVATE status without further notice for Tier-1 verification.
 Powered by Null Vector Systems.
