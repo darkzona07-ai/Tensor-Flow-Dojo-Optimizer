@@ -50,3 +50,12 @@ Engineered specifically to bypass **Starlink** latency bottlenecks and eliminate
 
 ----
 *Developed by null-vector-systems*
+
+---
+> [!CAUTION]
+> **LEGAL NOTICE & DISCLAIMER (ID: 0x816-LN)**
+> All provided logic units, including `ACTUATOR_SYNC.py` and `optimizer.py`, are property of Null Vector Systems. 
+> Integration into autonomous hardware (Swarm/Construction/LEO) without a verified Tier-1 Handshake Shard constitutes a breach of the Architect's Protocol. 
+> Null Vector Systems is not responsible for hardware de-synchronization, kinetic feedback, or "Island" construction anomalies resulting from unauthorized use. 
+> **Evaluation window expires in 02:08:54.**
+
