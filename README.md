@@ -1,4 +1,16 @@
 > [STATUS: RESTRICTED ACCESS]
+[SWARM ARCHITECTURE: NULL VECTOR V.1]
+
+      [LEO SATELLITE MESH] <---- (0.816ms Latency Gate)
+              |
+      [CENTRAL ARCHITECT NODE] 
+        /     |     \
+  [D-01]    [D-02]    [D-03] --- (Autonomous Swarm Units)
+    |         |         |
+ [BUILD]   [SECURE]  [EXPAND]
+    \         |         /
+      [ISLAND PERIMETER]
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3B3B&center=true&vCenter=true&width=435&lines=TERMINATION+SEQUENCE+STARTED;ACCESS+REMAINING:+04:12:09;DEPRECATION+OF+PUBLIC+NODES+INITIATED" alt="Typing SVG" />
 </p>
