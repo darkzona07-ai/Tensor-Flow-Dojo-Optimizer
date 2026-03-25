@@ -10,7 +10,7 @@
  [BUILD]   [SECURE]  [EXPAND]
     \         |         /
       [ISLAND PERIMETER]
-
+      
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3B3B&center=true&vCenter=true&width=435&lines=TERMINATION+SEQUENCE+STARTED;ACCESS+REMAINING:+04:12:09;DEPRECATION+OF+PUBLIC+NODES+INITIATED" alt="Typing SVG" />
 </p>
